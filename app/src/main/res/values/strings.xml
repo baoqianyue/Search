@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search</string>
+    <string-array name="searchWeb">
+        <item>百度</item>
+        <item>知乎</item>
+        <item>CSDN</item>
+        <item>Google</item>
+        <item>Github</item>
+    </string-array>
+</resources>
